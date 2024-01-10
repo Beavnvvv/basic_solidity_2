@@ -1,4 +1,7 @@
 <a name="J4blV"></a>
+#
+简单的银行合约
+#
 ### deposit()  //存款
 ```solidity
 function deposit(address user,uint amount)internal returns (bool){
